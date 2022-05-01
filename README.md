@@ -1,4 +1,3 @@
-  
 
 ### **<div align="center">Hi there👋! I'm Usman, a full-time full-stack freelance developer 👨‍💻</div>**  
   
@@ -13,6 +12,8 @@
   
 
 <br/>  
+
+<img src="https://raw.githubusercontent.com/Vizuz/Vizuz/main/Black%20Flatlay%20Photo%20Motivational%20Finance%20Quote%20Facebook%20Cover%20(2).png" />
 
 
 ## My Skill Set  
